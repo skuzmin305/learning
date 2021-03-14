@@ -121,3 +121,4 @@ fi
 
 export USER="SergeyKuzmin"
 export MAIL="skuzmin305@gmail.com"
+neofetch
